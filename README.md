@@ -1,4 +1,4 @@
 Temp
 ====
 
-Temporarily Store
+React Redux Example
